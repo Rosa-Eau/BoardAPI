@@ -1,13 +1,21 @@
 # Spring 1주차 과제 lv1
 
+### Spring MVC 게시판 CRUD 구현하기
+
 ---
 
 ## Use Case Diagram
-![Post_UCD](https://github.com/Rosa-Eau/spring_lv1/assets/78130010/6b0e925e-b8ce-4c89-a5ef-d7de09f5b65b)
+
+<br>
+
+<img src="https://github.com/Rosa-Eau/spring_lv1/assets/78130010/6b0e925e-b8ce-4c89-a5ef-d7de09f5b65b" width=50%;>
+
+<br>
+
 ---
 
 ## API 명세서
-https://documenter.getpostman.com/view/33079268/2sA2rCTMAy
+### https://documenter.getpostman.com/view/33079268/2sA2rCTMAy
 ---
 
 ## ERD
