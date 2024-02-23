@@ -75,7 +75,7 @@ public class BoardController {
     @GetMapping("/boards")
     public List<BoardResponseDTO> getBoards() {
         // DB 조회
-        String sql = "SELECT * FROM BOARD";
+        String sql = "SELECT * FROM BOARD ORDER BY created_at DESC";
 
         return jdbcTemplate.query(sql, new RowMapper<BoardResponseDTO>() {
             @Override
